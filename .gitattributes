@@ -1,0 +1,4 @@
+*.xml text eol=lf
+*.txt text eol=lf
+*.props text eol=lf
+*.targets text eol=lf
